@@ -11,7 +11,7 @@ const typeDefs = gql`
     id: ID!,
     firstName: String!,
     lastName: String!,
-    age: Int!,
+    age: Int
   }
 
   type House {
